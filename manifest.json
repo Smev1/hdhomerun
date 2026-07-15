@@ -10,7 +10,7 @@
       {
         "version": "0.3.1.0",
         "targetAbi": "10.10.0.0",
-        "sourceUrl": "https://github.com/stephenhoos/hdhomerun-jellyfin-guide/releases/download/v0.3.1.0/hdhomerun-jellyfin-guide.zip",
+        "sourceUrl": "https://github.com/stephenhoos/hdhomerun-jellyfin-guide/releases/download/v0.3.2.0/HDHomeRunGuide_0.3.2.0-sonarqube-clean.zip",
         "checksum": "sha256:eb3d175ec1e0a92dc58620344caf57b5cd64fa0f30806d84d11c6eab3f2a2c0c",
         "timestamp": "2026-05-21T00:00:00Z"
       }
