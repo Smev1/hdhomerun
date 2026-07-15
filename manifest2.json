@@ -1,7 +1,7 @@
 [
   {
     "guid": "dedaf64f-c6d3-4b51-b88e-64873ec088a5",
-    "name": "HDHomeRun Guide",
+    "name": "HDHomeRun Guide 2",
     "description": "Free HDHomeRun XMLTV guide data provider for Jellyfin.",
     "overview": "Fetches SiliconDust HDHomeRun XMLTV guide data and configures Jellyfin Live TV.",
     "owner": "Stephen Hoos",
